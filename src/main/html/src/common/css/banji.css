@@ -1,0 +1,121 @@
+@media only screen and (min-width: 1540px) and (max-width: 2200px){
+  #studentTable, #classTable{height: 480px !important;overflow: auto}
+  #classCourseList{height: 500px}
+  #studentListDialog .el-dialog {max-height: 80% !important; overflow: auto;}
+
+  /*添加课程*/
+  #mark{
+    max-height: 760px ;
+    /*border: 1px solid red*/
+  }
+  #mark .v-note-panel{
+    height: 600px ;
+    overflow: auto;
+  }
+  /*课程实验维护*/
+  #experimentMark{
+    max-height: 600px ;
+    /*border: 1px solid red*/
+  }
+  #experimentMark .v-note-panel{
+    height: 500px ;
+    overflow: auto;
+    /*border: 1px solid red;*/
+  }
+  .experimentBianJi .el-form-item{
+    width: 20% !important;
+  }
+  /*成绩表弹出框*/
+  #DialogResulitTable{
+    max-height: 500px !important;
+    overflow: auto;
+  }
+  /*管理员编辑答案弹出框*/
+  #managerSelectTableData{
+    max-height: 600px !important;
+    overflow: auto;
+  }
+  /*提交成绩弹出框，标题*/
+  #detail #markTitle{
+    margin:-25px 0px 20px 0px;
+    font-size:17px;
+  }
+  /*学生提交答案表格*/
+  #dialogSelectTable{
+    max-height: 650px;
+    overflow: auto;
+  }/*提交答案页面，树形菜单弹出框*/
+  #dataListTable{
+    max-height: 650px;
+    overflow: auto;
+  }
+  /*deep市场，详细信息*/
+  #dmdataOneTable{
+    max-height: 420px;
+    overflow: auto;
+  }
+}
+
+@media only  screen and (max-width: 1540px){
+  #mark{
+    max-height:400px;
+    /*border: 1px solid red*/
+  }
+  #mark .v-note-panel{
+    height: 285px;
+    overflow: auto;
+    /*border: 1px solid red;*/
+  }
+  #studentTable, #classTable{height: 220px !important;overflow: auto}
+  /*课程实验维护*/
+  #experimentMark{
+    max-height: 360px ;
+    /*border: 1px solid red*/
+  }
+  #experimentMark .v-note-panel{
+    height: 230px ;
+    overflow: auto;
+    /*border: 1px solid red;*/
+  }
+  .experimentBianJi .el-form-item{
+    width: 28% !important;
+  }
+  /*成绩表弹出框*/
+  #DialogResulitTable{
+    max-height: 300px !important;
+    overflow: auto;
+  }
+  /*管理员编辑答案弹出框*/
+  #managerSelectTableData{
+    max-height: 400px !important;
+    overflow: auto;
+  }
+  /*提交答案页面，树形菜单弹出框*/
+  #dataListTable{
+    max-height: 340px;
+    overflow: auto;
+  }
+  /*提交成绩弹出框，标题*/
+  #detail #markTitle{
+    margin:-30px 0px 20px 0px;
+    font-size:17px;
+  }
+  /*学生提交答案表格*/
+  #dialogSelectTable{
+    max-height: 340px;
+    overflow: auto;
+  }
+  /*deep市场，详细信息*/
+  #dmdataOneTable{
+    max-height: 170px;
+    overflow: auto;
+  }
+  /*提交答案页面，表格弹出框*/
+
+  /*#DialogTable{*/
+    /*height: 360px;*/
+  /*}*/
+}
+
+
+

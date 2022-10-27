@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="659b1f0e-a172-4938-8ccf-679bdd7db206" name="Default" comment="[修改] 班级管理 学生名单 删除某个学生后，搜索框搜索不到该条记录">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSocketConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/entity/WebSocketMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lib/jacob-1.19-x64.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lib/jacob.jar" />
+      <change beforePath="$PROJECT_DIR$/platform.iml" afterPath="$PROJECT_DIR$/platform.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/build/webpack.dev.conf.js" afterPath="$PROJECT_DIR$/src/main/html/build/webpack.dev.conf.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/src/main/html/build/webpack.prod.conf.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/config/index.js" afterPath="$PROJECT_DIR$/src/main/html/config/index.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/package.json" afterPath="$PROJECT_DIR$/src/main/html/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/src/components/header/header.vue" afterPath="$PROJECT_DIR$/src/main/html/src/components/header/header.vue" />
+      <change beforePath="$PROJECT_DIR$/src/main/html/src/components/scientific-center/scientific-center.vue" afterPath="$PROJECT_DIR$/src/main/html/src/components/scientific-center/scientific-center.vue" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/InterceptorConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/InterceptorConfig.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSecurityConfig.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtAuthenticationTokenFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtAuthenticationTokenFilter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtTokenUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtTokenUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/JobScoreServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/JobScoreServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/UserAccessRecordServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/UserAccessRecordServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/eurlanda/edu/tp/phoenix/PhoenixApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/eurlanda/edu/tp/phoenix/PhoenixApplicationTests.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="platform" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="scientific-center.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-center/scientific-center.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="125" column="26" lean-forward="false" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+              <folding>
+                <element signature="e#1986#2024#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/ManagerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1249">
+              <caret line="282" column="75" lean-forward="false" selection-start-line="282" selection-start-column="63" selection-end-line="282" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="126" column="40" lean-forward="false" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketServerController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="59" column="43" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageBrokerRegistry.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/serverJar/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE.jar!/org/springframework/messaging/simp/config/MessageBrokerRegistry.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding>
+                <marker date="1531984053629" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1531984053629" expanded="false" signature="165:564" ph="..." />
+                <marker date="1531984053629" expanded="true" signature="1219:1510" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="1598:1797" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="1893:2094" ph="{...}" />
+                <marker date="1531984053629" expanded="false" signature="2151:2162" ph=" { " />
+                <marker date="1531984053629" expanded="false" signature="2200:2206" ph=" }" />
+                <marker date="1531984053629" expanded="false" signature="2272:2283" ph=" { " />
+                <marker date="1531984053629" expanded="false" signature="2321:2327" ph=" }" />
+                <marker date="1531984053629" expanded="true" signature="2380:2508" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="2558:2683" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="2772:2856" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="2927:3054" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="3140:3224" ph="{...}" />
+                <marker date="1531984053629" expanded="false" signature="3273:3284" ph=" { " />
+                <marker date="1531984053629" expanded="false" signature="3318:3324" ph=" }" />
+                <marker date="1531984053629" expanded="true" signature="3399:3467" ph="{...}" />
+                <marker date="1531984053629" expanded="false" signature="3511:3522" ph=" { " />
+                <marker date="1531984053629" expanded="false" signature="3546:3552" ph=" }" />
+                <marker date="1531984053629" expanded="true" signature="3617:3683" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="3777:4279" ph="{...}" />
+                <marker date="1531984053629" expanded="true" signature="4381:4512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterceptorConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/InterceptorConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isAccess</find>
+      <find>isProjectUser</find>
+      <find>添加实验</find>
+      <find>addExperiment</find>
+      <find>/course/module/experiment/creation</find>
+      <find>$router</find>
+      <find>push</find>
+      <find>删除学生</find>
+      <find>/student/delete</find>
+      <find>delStudent</find>
+      <find>删除教师</find>
+      <find>teacher/deletion</find>
+      <find>delProject</find>
+      <find>deleteProject</find>
+      <find>saveProjectUser</find>
+      <find>getProjectById</find>
+      <find>user.role==3</find>
+      <find>searchProject</find>
+      <find>webSocketConnection</find>
+      <find>websocket</find>
+      <find>user</find>
+      <find>this.role</find>
+      <find>logger.info</find>
+      <find>自动批改作业开始执行</find>
+      <find>:id</find>
+      <find>course/all/</find>
+      <find>webSocketClient</find>
+      <find>已经进行同步的学生</find>
+      <find>subscribeSynced</find>
+      <find>/topic/subscribe/student/SyncOperate</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\workspace\edu-tf\trunk</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-proShow.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-pro.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-local.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/TProjectDocController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/ProjectDocServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthController.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/deep-index/deep-index.vue" />
+        <option value="$PROJECT_DIR$/doc/db/Tables.sql" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-updateFile/scientific-updateFile.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/UserAccessRecordServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-allProject/scientific-allProject.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/StudentServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/learning-detail/learning-detail.vue" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/watchExperiment/watchExperiment.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/enums/CloudwareTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/eurlanda/edu/tp/phoenix/PhoenixApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/pdf/ppt2pdfUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/html/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/src/main/html/build/webpack.prod.conf.js" />
+        <option value="$PROJECT_DIR$/src/main/html/package.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/api/EduApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtTokenUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/common/js/request.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/TProjectService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/doc/db/seedProd.sql" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-information/scientific-information.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectUserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/TProjectUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectUserServiceimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/error/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/ManagerController.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-manager/scientific-manager.vue" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-member/scientific-member.vue" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-myProject/scientific-myProject.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/TProjectController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-main/scientific-main.vue" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/header/header.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/entity/WebSocketMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/html/config/index.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java" />
+        <option value="$PROJECT_DIR$/src/main/html/src/components/scientific-center/scientific-center.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\serverJar" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/src/main/html/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="scientific-center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="eurlanda" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="tp" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dev" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="Web&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java&#10;WebSocketS&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java&#10;WebSocketSer&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.controller.WebSocketServerController&#10;ErrorCode&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/error/ErrorCode.java&#10;selectManagerUse&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.controller.TProjectController#selectManagerUser&#10;ErrorC&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/error/ErrorCode.java&#10;CloudwareE&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.enums.CloudwareTypeEnum&#10;maxMeanwhileOnlineUserCount&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.authentication.auth.AuthServiceImpl#maxMeanwhileOnlineUserCount&#10;TProjectDocController&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/controller/TProjectDocController.java&#10;scientific-updateFile&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/scientific-updateFile/scientific-updateFile.vue&#10;header&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/header/header.vue&#10;TProjectUser&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectUserServiceimpl.java&#10;TProjectUserM&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectUserMapper.java&#10;TProjectS&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectServiceImpl.java&#10;hea&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/header/header.vue&#10;TProjectServiceImpl&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectServiceImpl.java&#10;Auth&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthController.java&#10;TProject&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/controller/TProjectController.java&#10;TProjectC&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/controller/TProjectController.java&#10;Au&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/authentication/auth/AuthController.java&#10;scientificCenter&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/scientific-center/scientific-center.vue&#10;UserMa&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.dao.mapper.UserMapper&#10;TProjectDocMapper&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectDocMapper.java&#10;dee&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/deep-index/deep-index.vue&#10;Job&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/service/imp/JobScoreServiceImpl.java&#10;Rancher&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/service/imp/RancherServiceImpl.java&#10;watch&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/watchExperiment/watchExperiment.vue&#10;Des&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/Util/DesUtils.java&#10;JobScoreServiceImpl&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.service.imp.JobScoreServiceImpl&#10;deep&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/html/src/components/deep-index/deep-index.vue&#10;Token&#9;FILE&#9;file://D:/workspace/edu-tf/trunk/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtTokenUtil.java&#10;Term&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.dao.mapper.TermMapper&#10;CloudwareT&#9;PSI&#9;JAVA://com.eurlanda.edu.tp.enums.CloudwareTypeEnum" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eurlanda.edu.tp.Util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\edu-tf\trunk\src\main\resources\lib" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\java\com\eurlanda\edu\tp\controller\TProjectDocController.java</PATH>
+          <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\html\src\components\scientific-updateFile\scientific-updateFile.vue</PATH>
+          <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\html\src\components\header\header.vue</PATH>
+          <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\html\src\components\scientific-file\scientific-file.vue</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\java\com\eurlanda\edu\tp\controller\WebSocketServerController.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+        <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\html\src\components\scientific-main\scientific-main.vue</PATH>
+        <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\src\main\html\package.json</PATH>
+        <PATH vcs="svn" revision="2109">D:\workspace\edu-tf\trunk\pom.xml</PATH>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PhoenixApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="JwtTokenUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eurlanda.edu.tp.authentication.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.eurlanda.edu.tp.authentication.security.JwtTokenUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="platform" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="PhoenixApplicationTests.ppt2pdf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eurlanda.edu.tp.phoenix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="platform" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.eurlanda.edu.tp.phoenix" />
+      <option name="MAIN_CLASS_NAME" value="com.eurlanda.edu.tp.phoenix.PhoenixApplicationTests" />
+      <option name="METHOD_NAME" value="ppt2pdf" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="181" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="wagon:upload-single" />
+                <option value="wagon:sshexec" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="190" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="wagon:upload-single" />
+                <option value="wagon:sshexec" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map>
+                <entry key="demo" value="true" />
+                <entry key="window" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="PhoenixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.eurlanda.edu.tp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eurlanda.edu.tp.PhoenixApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="platform" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Maven.181" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.190" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.PhoenixApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JwtTokenUtil" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PhoenixApplicationTests.ppt2pdf" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PhoenixApplicationTests.ppt2pdf" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JwtTokenUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chenfei\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\edu-tf\trunk" />
+          <option name="myCopyRoot" value="D:\workspace\edu-tf\trunk" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\edu-tf\trunk" />
+          <option name="myCopyRoot" value="D:\workspace\edu-tf\trunk" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659b1f0e-a172-4938-8ccf-679bdd7db206" name="Default" comment="" />
+      <created>1525746977477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525746977477</updated>
+      <workItem from="1525746981815" duration="2728000" />
+      <workItem from="1525750954728" duration="42920000" />
+      <workItem from="1525915849870" duration="13590000" />
+      <workItem from="1526106359924" duration="3263000" />
+      <workItem from="1526277740230" duration="169000" />
+      <workItem from="1526299214634" duration="478000" />
+      <workItem from="1526544124667" duration="47909000" />
+      <workItem from="1526868946987" duration="10894000" />
+      <workItem from="1526954137029" duration="6605000" />
+      <workItem from="1526973371253" duration="1313000" />
+      <workItem from="1526976067234" duration="3860000" />
+      <workItem from="1526982328599" duration="12000" />
+      <workItem from="1526986527740" duration="412000" />
+      <workItem from="1526987008514" duration="35000" />
+      <workItem from="1526987329784" duration="63000" />
+      <workItem from="1526988032617" duration="394000" />
+      <workItem from="1526988635227" duration="846000" />
+      <workItem from="1526991743672" duration="341000" />
+      <workItem from="1526992745342" duration="1653000" />
+      <workItem from="1527007538194" duration="1939000" />
+      <workItem from="1527495779762" duration="135000" />
+      <workItem from="1527571184634" duration="301000" />
+      <workItem from="1527750294029" duration="711000" />
+      <workItem from="1527831168251" duration="458000" />
+      <workItem from="1528084751549" duration="103000" />
+      <workItem from="1528091994398" duration="35000" />
+      <workItem from="1528280446191" duration="4362000" />
+      <workItem from="1528338201449" duration="355000" />
+      <workItem from="1528341321668" duration="1145000" />
+      <workItem from="1528342640783" duration="482000" />
+      <workItem from="1528348377446" duration="644000" />
+      <workItem from="1529034258505" duration="20179000" />
+      <workItem from="1529375110362" duration="337000" />
+      <workItem from="1529377101885" duration="16017000" />
+      <workItem from="1529413599596" duration="387000" />
+      <workItem from="1529457899204" duration="11238000" />
+      <workItem from="1529574751395" duration="175000" />
+      <workItem from="1529635840810" duration="2184000" />
+      <workItem from="1529725161006" duration="1820000" />
+      <workItem from="1529764391294" duration="631000" />
+      <workItem from="1529889698480" duration="16704000" />
+      <workItem from="1529993363779" duration="1535000" />
+      <workItem from="1530078531024" duration="7000" />
+      <workItem from="1530099747349" duration="19620000" />
+      <workItem from="1530192372429" duration="597000" />
+      <workItem from="1530260887708" duration="11636000" />
+      <workItem from="1530497594435" duration="4650000" />
+      <workItem from="1530514126642" duration="56000" />
+      <workItem from="1530525455657" duration="477000" />
+      <workItem from="1530687904831" duration="3870000" />
+      <workItem from="1530773666980" duration="216000" />
+      <workItem from="1530840117044" duration="4407000" />
+      <workItem from="1531108390623" duration="110000000" />
+      <workItem from="1531444542793" duration="27240000" />
+      <workItem from="1531551605587" duration="156050000" />
+    </task>
+    <task id="LOCAL-00073" summary="[修改] 修改特殊字符创建项目不成功">
+      <created>1531721454891</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1531721454891</updated>
+    </task>
+    <task id="LOCAL-00074" summary="[修改] 修改特殊字符创建项目，不成功问题">
+      <created>1531722596522</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1531722596522</updated>
+    </task>
+    <task id="LOCAL-00075" summary="[修改] 修改成员管理，添加失败">
+      <created>1531726054769</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1531726054769</updated>
+    </task>
+    <task id="LOCAL-00076" summary="[修改] 修改项目名字段的长度为45">
+      <created>1531727183876</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1531727183876</updated>
+    </task>
+    <task id="LOCAL-00077" summary="[修改] 数据库加锁，防止重复提交">
+      <created>1531729407316</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1531729407317</updated>
+    </task>
+    <task id="LOCAL-00078" summary="[修改] 修改项目成员管理">
+      <created>1531731979267</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1531731979267</updated>
+    </task>
+    <task id="LOCAL-00079" summary="[修改] 修改页面初始化，富文本编辑器获得焦点">
+      <created>1531733275075</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1531733275075</updated>
+    </task>
+    <task id="LOCAL-00080" summary="[修改]修改公开项目模糊查询">
+      <created>1531734401089</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1531734401089</updated>
+    </task>
+    <task id="LOCAL-00081" summary="[修改]修改创建项目，再次点开，表单没有清除">
+      <created>1531735444446</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1531735444446</updated>
+    </task>
+    <task id="LOCAL-00082" summary="[修改] 修改查询是否超过允许创建的项目数量">
+      <created>1531793634856</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1531793634856</updated>
+    </task>
+    <task id="LOCAL-00083" summary="[修改] 修改成员管理，修改组长之后，为保存之前，搜索不能搜索出组长信息">
+      <created>1531797095477</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1531797095477</updated>
+    </task>
+    <task id="LOCAL-00084" summary="[修改] 修改项目管理，只能点击文字，才能实现跳转">
+      <created>1531807516383</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1531807516383</updated>
+    </task>
+    <task id="LOCAL-00085" summary="[修改] 修改所有项目分页查询，页数展示不对的问题">
+      <created>1531808168132</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1531808168132</updated>
+    </task>
+    <task id="LOCAL-00086" summary="[修改] 项目列表，页面切换，页数初始化问题">
+      <created>1531808653965</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1531808653965</updated>
+    </task>
+    <task id="LOCAL-00087" summary="[修改] 创建项目，增加超过允许创建的项目数提示">
+      <created>1531809002164</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1531809002164</updated>
+    </task>
+    <task id="LOCAL-00088" summary="[修改] 页面防止重复提交">
+      <created>1531811520367</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1531811520367</updated>
+    </task>
+    <task id="LOCAL-00089" summary="[修改] 修改允许对状态进行检索">
+      <created>1531812384371</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1531812384371</updated>
+    </task>
+    <task id="LOCAL-00090" summary="[修改] 增加对状态的搜索，以及enter搜索">
+      <created>1531813000977</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1531813000977</updated>
+    </task>
+    <task id="LOCAL-00091" summary="[修改] 搜索增加enter搜索">
+      <created>1531813376371</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1531813376371</updated>
+    </task>
+    <task id="LOCAL-00092" summary="[修改] 搜索增加enter搜索">
+      <created>1531813429582</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1531813429582</updated>
+    </task>
+    <task id="LOCAL-00093" summary="[修改] 修改未点击搜索，点击翻页时，进行回滚">
+      <created>1531814778027</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1531814778028</updated>
+    </task>
+    <task id="LOCAL-00094" summary="[修改] 替换项目组长时，给出合理提示">
+      <created>1531817750916</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1531817750916</updated>
+    </task>
+    <task id="LOCAL-00095" summary="[修改] 项目组长替换给出合理提示">
+      <created>1531817935369</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1531817935369</updated>
+    </task>
+    <task id="LOCAL-00096" summary="[修改] 修改页面展示">
+      <created>1531818843658</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1531818843658</updated>
+    </task>
+    <task id="LOCAL-00097" summary="[修改] 修改将项目组长删除，相关展示和操作失败">
+      <created>1531819479009</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1531819479009</updated>
+    </task>
+    <task id="LOCAL-00098" summary="[修改] 修改删除用户，对应项目中的人未删除">
+      <created>1531822504093</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1531822504093</updated>
+    </task>
+    <task id="LOCAL-00099" summary="[修改] 修改jupter_python枚举类型错误">
+      <created>1531894884592</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1531894884592</updated>
+    </task>
+    <task id="LOCAL-00100" summary="[修改] 修改成员管理，二次点击时，保存服务器异常">
+      <created>1531902468700</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1531902468700</updated>
+    </task>
+    <task id="LOCAL-00101" summary="[修改] 项目成员管理，保存成功之后，跳转到我的项目页面">
+      <created>1531902564923</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1531902564924</updated>
+    </task>
+    <task id="LOCAL-00102" summary="[修改] 修改成员管理，对于刚才删除的项目成功，不点击保存，搜索不到">
+      <created>1531905954200</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1531905954200</updated>
+    </task>
+    <task id="LOCAL-00103" summary="[修改] 修改管理员删除项目后，分页问题">
+      <created>1531968163463</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1531968163463</updated>
+    </task>
+    <task id="LOCAL-00104" summary="[修改] 修改替换组长，同步数猎云">
+      <created>1531980036778</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1531980036778</updated>
+    </task>
+    <task id="LOCAL-00105" summary="[修改] 修改查询项目管理员sql语句">
+      <created>1531994769114</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1531994769114</updated>
+    </task>
+    <task id="LOCAL-00106" summary="[修改] 显示修改项目信息时，项目名称长度为45">
+      <created>1531996862984</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1531996862984</updated>
+    </task>
+    <task id="LOCAL-00107" summary="[修改] 修改管理员项目搜索，未对状态进行搜索">
+      <created>1531998310000</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1531998310000</updated>
+    </task>
+    <task id="LOCAL-00108" summary="[修改]修改搜索项目">
+      <created>1531998419432</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1531998419432</updated>
+    </task>
+    <task id="LOCAL-00109" summary="[修改] 修改成员管理 修改项目组长之后，权限问题">
+      <created>1532056016724</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1532056016724</updated>
+    </task>
+    <task id="LOCAL-00110" summary="[修改]">
+      <created>1532063523067</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1532063523067</updated>
+    </task>
+    <task id="LOCAL-00111" summary="[修改] 修改创建项目，相关套餐等配置信息">
+      <created>1532070651169</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1532070651169</updated>
+    </task>
+    <task id="LOCAL-00112" summary="[修改] 项目信息保存成功，跳转到项目主页">
+      <created>1532071302586</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1532071302586</updated>
+    </task>
+    <task id="LOCAL-00113" summary="[修改] 修改成员搜索，原来项目中的成员搜索不到">
+      <created>1532074115132</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1532074115132</updated>
+    </task>
+    <task id="LOCAL-00114" summary="[修改] 修改删除学生和老师时，给出相关提示">
+      <created>1532078392803</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1532078392803</updated>
+    </task>
+    <task id="LOCAL-00115" summary="[修改] 修改删除项目，增加合理性提示">
+      <created>1532082117276</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1532082117276</updated>
+    </task>
+    <task id="LOCAL-00116" summary="[修改] 项目成员保存，细化出错提示">
+      <created>1532084295677</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1532084295677</updated>
+    </task>
+    <task id="LOCAL-00117" summary="[修改] 修改删除项目后，进入到项目页面，提示">
+      <created>1532084693152</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1532084693153</updated>
+    </task>
+    <task id="LOCAL-00118" summary="[修改] 修改增加必要的错误提示信息">
+      <created>1532146979293</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1532146979294</updated>
+    </task>
+    <task id="LOCAL-00119" summary="[修改] 去除增加的测试websocket">
+      <created>1532147411753</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1532147411753</updated>
+    </task>
+    <task id="LOCAL-00120" summary="[修改]">
+      <created>1532147452064</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1532147452064</updated>
+    </task>
+    <task id="LOCAL-00121" summary="[修改] 修改iframe初始化，websocket测试代码">
+      <created>1532149235866</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1532149235866</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PhoenixApplicationTests_ppt2pdf - 2018.07.18 at 15h 35m 08s.xml">
+      <configuration name="PhoenixApplicationTests.ppt2pdf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoenixApplicationTests_ppt2pdf - 2018.07.18 at 15h 36m 24s.xml">
+      <configuration name="PhoenixApplicationTests.ppt2pdf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoenixApplicationTests_ppt2pdf - 2018.07.18 at 15h 41m 02s.xml">
+      <configuration name="PhoenixApplicationTests.ppt2pdf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoenixApplicationTests_ppt2pdf - 2018.07.18 at 15h 45m 48s.xml">
+      <configuration name="PhoenixApplicationTests.ppt2pdf" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="558188000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34933037" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3950893" sideWeight="0.49570817" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32254463" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21651785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36607143" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25214592" sideWeight="0.4936306" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24517168" sideWeight="0.5063694" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34933037" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30021366" sideWeight="0.49570817" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21153846" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36858973" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24517168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[修改] 修改删除用户，对应项目中的人未删除" />
+    <MESSAGE value="[修改] 修改jupter_python枚举类型错误" />
+    <MESSAGE value="[修改] 修改成员管理，二次点击保存时，服务器异常" />
+    <MESSAGE value="[修改] 修改成员管理，二次点击时，保存服务器异常" />
+    <MESSAGE value="[修改] 项目成员管理，保存成功之后，跳转到我的项目页面" />
+    <MESSAGE value="[修改] 修改成员管理，对于刚才删除的项目成功，不点击保存，搜索不到" />
+    <MESSAGE value="[修改] 修改管理员删除项目后，分页问题" />
+    <MESSAGE value="[修改] 修改替换组长，同步数猎云" />
+    <MESSAGE value="[修改] 修改查询项目管理员sql语句" />
+    <MESSAGE value="[修改] 显示修改项目信息时，项目名称长度为45" />
+    <MESSAGE value="[修改] 修改管理员项目搜索，未对状态进行搜索" />
+    <MESSAGE value="[修改]修改搜索项目" />
+    <MESSAGE value="[修改] 修改成员管理 修改项目组长之后，权限问题" />
+    <MESSAGE value="[修改] 修改创建项目，相关套餐等配置信息" />
+    <MESSAGE value="[修改] 项目信息保存成功，页面跳转" />
+    <MESSAGE value="[修改] 项目信息保存成功，跳转到项目主页" />
+    <MESSAGE value="[修改] 修改成员搜索，原来项目中的成员搜索不到" />
+    <MESSAGE value="[修改] 修改删除学生和老师时，给出相关提示" />
+    <MESSAGE value="[修改] 修改删除项目，增加合理性提示" />
+    <MESSAGE value="[修改] 项目成员保存，细化出错提示" />
+    <MESSAGE value="[修改] 修改删除项目后，进入到项目页面，提示" />
+    <MESSAGE value="[修改] 修改增加必要的错误提示信息" />
+    <MESSAGE value="[修改] 去除增加的测试websocket" />
+    <MESSAGE value="[修改]" />
+    <MESSAGE value="[修改] 修改iframe初始化，websocket测试代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="[修改] 修改iframe初始化，websocket测试代码" />
+    <option name="CHANGE_BROWSER_SETTINGS">
+      <map>
+        <entry key="svn">
+          <value>
+            <ChangeBrowserSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/RancherController.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/ManagerController.java</url>
+          <line>1238</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/DmdataController.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/CourseServiceImp.java</url>
+          <line>499</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="114" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((ServletServerHttpRequest) serverHttpRequest).getServletRequest().getParameterMap()" language="JAVA" custom="org.springframework.http.server.ServletServerHttpRequest" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>((ServletServerHttpRequest) serverHttpRequest).getServletRequest().getParameterMap()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.http.server.ServletServerHttpRequest</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/html/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/socket/SocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="458" column="0" lean-forward="false" selection-start-line="458" selection-start-column="0" selection-end-line="458" selection-end-column="0" />
+          <folding>
+            <marker date="1512956223300" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512956223300" expanded="false" signature="155:1983" ph="..." />
+            <marker date="1512956223300" expanded="false" signature="4967:4978" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="5015:5021" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="5097:5188" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="5268:5341" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="5421:5494" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="5594:5687" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="5763:5832" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="5924:6009" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="6078:6089" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="6136:6142" ph=" }" />
+            <marker date="1512956223300" expanded="false" signature="6200:6211" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="6240:6246" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="6310:6723" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="6792:7403" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="7469:8124" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="8189:8832" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="8899:9994" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="10061:11156" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="11233:12480" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="12559:13316" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13381:14446" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="14513:15180" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="15228:15360" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="15419:15430" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="15460:15466" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="15563:15906" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="16011:17378" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="17467:17548" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="17654:19779" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="19886:23083" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="23185:23308" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="23499:24765" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="24848:25174" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="24997:25058" ph="getLocale() → {" />
+            <marker date="1512956223300" expanded="false" signature="25152:25167" ph="}" />
+            <marker date="1512956223300" expanded="true" signature="25278:26344" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="26416:26693" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="26759:27043" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="27137:27696" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="27807:28315" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="28404:28988" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="29146:30254" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="30374:31776" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="31863:31931" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="32072:32433" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="32601:32747" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="32854:33988" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="34058:34254" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="34267:34652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="531" selection-end-column="0" />
+          <folding>
+            <marker date="1512956223300" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512956223300" expanded="false" signature="177:4962" ph="..." />
+            <marker date="1512956223300" expanded="false" signature="7146:7214" ph="matches(method) → {" />
+            <marker date="1512956223300" expanded="false" signature="7304:7315" ph="}" />
+            <marker date="1512956223300" expanded="false" signature="7380:7448" ph="matches(method) → {" />
+            <marker date="1512956223300" expanded="false" signature="7614:7625" ph="}" />
+            <marker date="1512956223300" expanded="true" signature="7670:8181" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="8281:8346" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="8423:8434" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="8470:8476" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="8570:8840" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="8912:9013" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="9117:9417" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="9499:9620" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="9726:9795" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="9877:9931" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="10031:10312" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="10388:10492" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="10585:10652" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="10718:10729" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="10763:10769" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="10869:10944" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="11032:11091" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="11156:11167" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="11197:11203" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="11285:11414" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="11502:11633" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="11721:11788" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="11849:11860" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="11894:11900" ph=" }" />
+            <marker date="1512956223300" expanded="false" signature="11965:11976" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="12009:12015" ph=" }" />
+            <marker date="1512956223300" expanded="false" signature="12069:12080" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="12115:12121" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="12213:12460" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="12564:12835" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="12923:13004" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13092:13159" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13265:13368" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13440:13505" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13599:13670" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="13728:13877" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="13933:13944" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="13968:13974" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="14013:14794" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="14841:17173" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="17253:19499" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="19589:20713" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="20797:22396" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="22465:22476" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="22488:22494" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="22642:23636" ph="{...}" />
+            <marker date="1512956223300" expanded="false" signature="23737:23748" ph=" { " />
+            <marker date="1512956223300" expanded="false" signature="23759:23765" ph=" }" />
+            <marker date="1512956223300" expanded="true" signature="23861:24674" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="24827:27420" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="27524:27596" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="27704:29366" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="29488:29813" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="29915:31418" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="31506:31900" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="32029:32136" ph="{...}" />
+            <marker date="1512956223300" expanded="true" signature="32288:33144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <marker date="1512956223454" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512956223454" expanded="false" signature="162:711" ph="..." />
+            <marker date="1512956223454" expanded="false" signature="1105:1116" ph=" { " />
+            <marker date="1512956223454" expanded="false" signature="1137:1143" ph=" }" />
+            <marker date="1512956223454" expanded="false" signature="1206:1217" ph=" { " />
+            <marker date="1512956223454" expanded="false" signature="1237:1243" ph=" }" />
+            <marker date="1512956223454" expanded="true" signature="1365:1421" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="1500:1559" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="1669:1728" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="1822:1893" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="2033:2638" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="2788:4133" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="4212:4389" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="4485:4943" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="5008:6165" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="6250:6846" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="6929:7500" ph="{...}" />
+            <marker date="1512956223454" expanded="true" signature="7560:7893" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/TProjectDocController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="162" column="7" lean-forward="false" selection-start-line="162" selection-start-column="7" selection-end-line="162" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/authentication/security/JwtTokenUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/UserAccessRecordServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="199" column="28" lean-forward="false" selection-start-line="199" selection-start-column="28" selection-end-line="199" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/TProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="63" column="15" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/Addexperiment/Addexperiment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="201" column="29" lean-forward="false" selection-start-line="201" selection-start-column="16" selection-end-line="201" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/db/seedProd.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/db/seed.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/guanli-student/guanli-student.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="753" column="34" lean-forward="true" selection-start-line="753" selection-start-column="34" selection-end-line="753" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/mapper/TProjectUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="161" column="38" lean-forward="false" selection-start-line="161" selection-start-column="23" selection-end-line="161" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/entity/TProjectUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-information/scientific-information.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="164" column="37" lean-forward="false" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/imp/TProjectUserServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="e#2503#2504#0" expanded="false" />
+            <element signature="e#2561#2562#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/service/TProjectUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-member/scientific-member.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="298" column="31" lean-forward="false" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/error/ErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="299" column="19" lean-forward="false" selection-start-line="299" selection-start-column="19" selection-end-line="299" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-manager/scientific-manager.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="97" column="50" lean-forward="false" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="220" column="25" lean-forward="false" selection-start-line="220" selection-start-column="25" selection-end-line="220" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-main/scientific-main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/node_modules/@stomp/stompjs/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/FileSystemContorller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/RancherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/TProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="41" column="68" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-myProject/scientific-myProject.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="145" column="8" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9129" column="32" lean-forward="true" selection-start-line="9129" selection-start-column="32" selection-end-line="9129" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/header/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="514" column="6" lean-forward="false" selection-start-line="514" selection-start-column="6" selection-end-line="545" selection-end-column="7" />
+          <folding>
+            <element signature="e#8126#8152#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/dao/entity/WebSocketMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#426#427#0" expanded="false" />
+            <element signature="e#457#458#0" expanded="false" />
+            <element signature="e#506#507#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#580#581#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#763#764#0" expanded="false" />
+            <element signature="e#818#819#0" expanded="false" />
+            <element signature="e#864#865#0" expanded="false" />
+            <element signature="e#896#897#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#964#965#0" expanded="false" />
+            <element signature="e#996#997#0" expanded="false" />
+            <element signature="e#1028#1029#0" expanded="false" />
+            <element signature="e#1055#1056#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/common/js/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1095" column="22" lean-forward="false" selection-start-line="1095" selection-start-column="9" selection-end-line="1095" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="97" column="54" lean-forward="false" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/api/EduApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE.jar!/org/springframework/messaging/handler/annotation/MessageMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1531984053629" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1531984053629" expanded="false" signature="172:365" ph="..." />
+            <marker date="1531984053629" expanded="true" signature="367:462" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE.jar!/org/springframework/messaging/simp/annotation/SubscribeMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1531984053629" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1531984053629" expanded="false" signature="169:362" ph="..." />
+            <marker date="1531984053629" expanded="true" signature="364:441" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/serverJar/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE.jar!/org/springframework/messaging/simp/config/MessageBrokerRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <marker date="1531984053629" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1531984053629" expanded="false" signature="165:564" ph="..." />
+            <marker date="1531984053629" expanded="true" signature="1219:1510" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="1598:1797" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="1893:2094" ph="{...}" />
+            <marker date="1531984053629" expanded="false" signature="2151:2162" ph=" { " />
+            <marker date="1531984053629" expanded="false" signature="2200:2206" ph=" }" />
+            <marker date="1531984053629" expanded="false" signature="2272:2283" ph=" { " />
+            <marker date="1531984053629" expanded="false" signature="2321:2327" ph=" }" />
+            <marker date="1531984053629" expanded="true" signature="2380:2508" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="2558:2683" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="2772:2856" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="2927:3054" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="3140:3224" ph="{...}" />
+            <marker date="1531984053629" expanded="false" signature="3273:3284" ph=" { " />
+            <marker date="1531984053629" expanded="false" signature="3318:3324" ph=" }" />
+            <marker date="1531984053629" expanded="true" signature="3399:3467" ph="{...}" />
+            <marker date="1531984053629" expanded="false" signature="3511:3522" ph=" { " />
+            <marker date="1531984053629" expanded="false" signature="3546:3552" ph=" }" />
+            <marker date="1531984053629" expanded="true" signature="3617:3683" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="3777:4279" ph="{...}" />
+            <marker date="1531984053629" expanded="true" signature="4381:4512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="126" column="40" lean-forward="false" selection-start-line="126" selection-start-column="40" selection-end-line="126" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/application/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/html/src/components/scientific-center/scientific-center.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="125" column="26" lean-forward="false" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+          <folding>
+            <element signature="e#1986#2024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/ManagerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1249">
+          <caret line="282" column="75" lean-forward="false" selection-start-line="282" selection-start-column="63" selection-end-line="282" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eurlanda/edu/tp/controller/WebSocketServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="59" column="43" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6.3 (C:\Users\chenfei\AppData\Local\Programs\Python\Python36\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
